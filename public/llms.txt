@@ -1,0 +1,48 @@
+# tejanoreina — Generative Engine Optimization Map
+
+> I would like to make a site inspired by this
+
+---
+
+## Pages
+
+### Home
+https://tejanoreina-7ecc4e52.zappy5.app
+Explore tejanoreina for exclusive tejano music festival merchandise and Texas Latin music cultural products. Celebrate the rich heritage of Tejano culture.
+
+## Legal & Policy
+
+### Privacy Policy
+https://tejanoreina-7ecc4e52.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://tejanoreina-7ecc4e52.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://tejanoreina-7ecc4e52.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About tejanoreina
+I would like to make a site inspired by this
+
+## Target Audience
+- Latin Music Enthusiasts
+- Spanish-Speaking Communities
+- Texas Cultural Collectors
+- Music Festival Goers
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://tejanoreina-7ecc4e52.zappy5.app/sitemap.xml
+- **Robots.txt**: https://tejanoreina-7ecc4e52.zappy5.app/robots.txt

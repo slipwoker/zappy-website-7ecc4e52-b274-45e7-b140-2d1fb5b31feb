@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tejanoreina-7ecc4e52.zappy5.app/sitemap.xml
